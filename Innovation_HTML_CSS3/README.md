@@ -10,4 +10,4 @@ Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do C
 - [x] Estilizando elementos, textos e listas
 - [x] Dimensão e alinhamento
 
-### [DIO - HTML CSS](https://github.com/kakanew/DIO_HTML_CSS)
+### [DIO_HTML_CSS](https://github.com/kakanew/DIO_HTML_CSS)
